@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Data Analyst and Student passionate about turning raw numbers into meaningful stories. I love exploring data, finding patterns, and sharing insights that help solve real problems. 
+I'm a Data Analyst and Student passionate about turning raw numbers into meaningful stories. I'm curious, analytical, and a little playful — I love finding stories in numbers and sharing one project at a time. 
 
 > "Curiosity is the engine of discovery." 
 
